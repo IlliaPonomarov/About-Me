@@ -4,7 +4,7 @@ Illia Ponomarov
   
   <h2 align="center">
     
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Welcome+to+my+Github+Page!;I'm+Illia+Ponomarov.;I'm+a+student+in+California.;I'm+always+expanding+my+tech+stack!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Welcome+to+my+Github+Page!;I'm+Illia+Ponomarov.;I'm+a+student+in+Slovak.+Faculty informatics_and_information+technologies;I'm+always+expanding+my+tech+stack!)](https://git.io/typing-svg)
 
 
 ## Contribution Snake 
