@@ -81,6 +81,3 @@ Illia Ponomarov
 
 ###### Some icons courtesy of [icons8](https://icons8.com/)
 
-------
-Credit: [Null3000](https://github.com/null3000)
-Last Edited on: 9/6/22
