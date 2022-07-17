@@ -70,15 +70,15 @@ Illia Ponomarov
 
 |                                                                     My Stats                                                                     |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|  |
+| ![My Github Graph](https://activity-graph.herokuapp.com/graph?username=IlliaPonomarovtheme=react-dark&hide_border=true&area=true) |
 | ![My Github Stats](https://github-readme-stats.vercel.app/api?username=IlliaPonomarov&show_icons=true&theme=algolia)              | 
 | ![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IlliaPonomarov&theme=algolia)                    | 
     
 
-|                                                                                                      My Stars                                                                                                       |                           |      
-|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-| ![Github Stars](https://github-readme-stats.vercel.app/api?username=IlliaPonomarov&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=false&theme=algolia)| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlliaPonomarov&langs_count=8&theme=algolia)
-
+|                                                                                                      My Stars                                                                                                       |                                                           Top Languages                                                           |      
+|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
+| ![Github Stars](https://github-readme-stats.vercel.app/api?username=null3000&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=false&theme=algolia)| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=null3000&langs_count=8&theme=algolia)
+	
+![](https://komarev.com/ghpvc/?username=null3000&style=flat-square)
 
 ###### Some icons courtesy of [icons8](https://icons8.com/)
-
