@@ -7,7 +7,7 @@ Illia Ponomarov
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oswald&duration=7000&center=true&color=DF0CF6&lines=Welcome+to+my+Github+Page!;I'm+a+student+in+Slovak+Technical+University.+;Faculty+informatics+and++information+technologies;I'm+always+expanding+my+tech+stack!)](https://git.io/typing-svg)
 
 ## Contribution Snake 
-![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/IlliaPonomaroov/IlliaPonomarov/blob/output/github-contribution-grid-snake.svg)
 
 ## My Tech Stack and Tools
 
