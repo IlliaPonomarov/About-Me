@@ -78,7 +78,8 @@ Illia Ponomarov
 |                                                                                                      My Stars                                                                                                       |                                                           Top Languages                                                           |      
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
 | ![Github Stars](https://github-readme-stats.vercel.app/api?username=IlliaPonomarov&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=false&theme=algolia)| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlliaPonomarov&langs_count=8&theme=algolia)
-	
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlliaPonomarov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ![](https://komarev.com/ghpvc/?username=null3000&style=flat-square)
 
 ###### Some icons courtesy of [icons8](https://icons8.com/)
