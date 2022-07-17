@@ -70,7 +70,7 @@ Illia Ponomarov
 
 |                                                                     My Stats                                                                     |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IlliaPonnomarov&theme=nightowl&date_format=M%20j%5B%2C%20Y%5D) |
+|  |
 | ![My Github Stats](https://github-readme-stats.vercel.app/api?username=IlliaPonomarov&show_icons=true&theme=algolia)              | 
 | ![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IlliaPonomarov&theme=algolia)                    | 
     
@@ -80,7 +80,7 @@ Illia Ponomarov
 | ![Github Stars](https://github-readme-stats.vercel.app/api?username=IlliaPonomarov&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=false&theme=algolia)| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlliaPonomarov&langs_count=8&theme=algolia)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlliaPonomarov&layout=compact)](https://github.com/IlliaPonomarov/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=null3000&style=flat-square)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlliaPonomarov)](https://github.com/anuraghazra/github-readme-stats)
 
 ###### Some icons courtesy of [icons8](https://icons8.com/)
 
