@@ -7,7 +7,7 @@ Illia Ponomarov
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oswald&duration=7000&center=true&color=DF0CF6&lines=Welcome+to+my+Github+Page!;I'm+a+student+in+Slovak+Technical+University.+;Faculty+informatics+and++information+technologies;I'm+always+expanding+my+tech+stack!)](https://git.io/typing-svg)
 
 ## Contribution Snake 
-![snake gif](https://github.com/IlliaPonomaroov/IlliaPonomarov/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
 
 ## My Tech Stack and Tools
 
@@ -79,7 +79,7 @@ Illia Ponomarov
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
 | ![Github Stars](https://github-readme-stats.vercel.app/api?username=IlliaPonomarov&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=false&theme=algolia)| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlliaPonomarov&langs_count=8&theme=algolia)
 	
-![](https://komarev.com/ghpvc/?username=IlliaPonomarov&style=flat-square)
+![](https://komarev.com/ghpvc/?username=null3000&style=flat-square)
 
 ###### Some icons courtesy of [icons8](https://icons8.com/)
 
