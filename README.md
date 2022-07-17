@@ -70,7 +70,7 @@ Illia Ponomarov
 
 |                                                                     My Stats                                                                     |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![My Github Graph](https://activity-graph.herokuapp.com/graph?username=IlliaPonomarovtheme=react-dark&hide_border=true&area=true) |
+| ![My Github Graph](https://activity-graph.herokuapp.com/graph?username=IlliaPonomarov?theme=react-dark&hide_border=true&area=true) |
 | ![My Github Stats](https://github-readme-stats.vercel.app/api?username=IlliaPonomarov&show_icons=true&theme=algolia)              | 
 | ![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IlliaPonomarov&theme=algolia)                    | 
     
