@@ -21,9 +21,10 @@ Illia Ponomarov
 <img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
 ![icons8-javascript](https://user-images.githubusercontent.com/76852813/172720095-d75caaaa-c8b8-497e-a1bf-54720da5f9ed.svg)
 ![icons8-java](https://user-images.githubusercontent.com/76852813/172716937-4574740e-2d2e-4326-af3b-4a42bad058c1.svg)
+<img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'> </a>
+
 <img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
 <img width="48" alt="Processing 2021 logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Processing_2021_logo.svg/64px-Processing_2021_logo.svg.png"></a>
-
 
 
 ### Frameworks and Libraries
@@ -51,19 +52,6 @@ Illia Ponomarov
 ![icons8-bash](https://user-images.githubusercontent.com/76852813/172722833-c1dafe34-7340-4220-a115-81dce56b1746.svg)
 
 
-
-
-### MISC
-
-<p>
-	
-![icons8-heroku](https://user-images.githubusercontent.com/76852813/172721998-708f82d2-e288-462e-a2fd-2ee471036151.svg)
-![icons8-raspberry-pi](https://user-images.githubusercontent.com/76852813/172732112-5119f3f5-16f0-4ddb-aa32-1926cb9f56a8.svg)
-
-
-
-
-
 	
 ## GitHub Stats
 
@@ -74,11 +62,3 @@ Illia Ponomarov
 | ![My Github Stats](https://github-readme-stats.vercel.app/api?username=IlliaPonomarov&show_icons=true&theme=algolia)              | 
 | ![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IlliaPonomarov&theme=algolia)                    | 
     
-
-|                                                                                                      My Stars                                                                                                       |                                                           Top Languages                                                           |      
-|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-| ![Github Stars](https://github-readme-stats.vercel.app/api?username=IlliaPonomarov&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=false&theme=algolia)| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlliaPonomarov&langs_count=8&theme=algolia)
-	
-![](https://komarev.com/ghpvc/?username=null3000&style=flat-square)
-
-###### Some icons courtesy of [icons8](https://icons8.com/)
