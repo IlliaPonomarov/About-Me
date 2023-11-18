@@ -6,10 +6,16 @@ Illia Ponomarov
     
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oswald&duration=7000&center=true&color=DF0CF6&lines=Welcome+to+my+Github+Page!;I'm+a+student+in+Slovak+Technical+University.+;Faculty+informatics+and++electrotechnics;I'm+always+expanding+my+tech+stack!)](https://git.io/typing-svg)
 
-## Contribution Snake 
-![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
-
 ## My Tech Stack and Tools
+
+## GitHub Stats
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IlliaPonomarov&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)<br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IlliaPonomarov&show_icons=true&theme=radical)  <br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=IlliaPonomarov&theme=radical&hide_border=true&border_radius=4.7)](https://git.io/streak-stats) <br/>
+    
+
 
 ### Programming Languages
 
@@ -39,12 +45,3 @@ Illia Ponomarov
 
 
 	
-## GitHub Stats
-
-
-|                                                                     My Stats                                                                     |
-|:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![My Github Graph](https://activity-graph.herokuapp.com/graph?username=IlliaPonomarov&theme=react-dark&hide_border=true&area=true) |
-| ![My Github Stats](https://github-readme-stats.vercel.app/api?username=IlliaPonomarov&show_icons=true&theme=algolia)              | 
-| ![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IlliaPonomarov&theme=algolia)                    | 
-    
