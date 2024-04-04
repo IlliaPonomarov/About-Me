@@ -32,7 +32,7 @@ Illia Ponomarov
 
 [![My Skills](https://skillicons.dev/icons?i=spring,jenkins,vue,bootstrap,docker,kubernetes,maven,gradle&perline=3)](https://skillicons.dev)
 
-### Data Bases
+### DB
 [![My Skills](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb&perline=3)](https://skillicons.dev)
 
 
